@@ -1,3 +1,4 @@
+// @wzm 2023-1-12
 import Clipboard from 'clipboard'
 
 interface Options {
